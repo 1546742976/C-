@@ -30,5 +30,7 @@ int main()
 		printf("%d\t ", temp[i]);
 		
 	}
+	printf("\n");
+	printf("%d",sum);
 	return 0;
 }
